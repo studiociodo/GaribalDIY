@@ -2,6 +2,8 @@
 The Purpose of This library is to use the module in the most easy way and transparent.  
 Website: [Sim800l library](https://cristiansteib.github.io/Sim800l)
 
+## THIS LIBRARY WAS MODDED BY @studiociodo TO FIX A BUG DURING USAGE OF FUNCTION ON FIELD
+
 ##To download and Install.
 Go to [Releases](https://github.com/cristiansteib/Sim800l/releases) click the " Source Code (zip) " button, then rename the uncompressed folder to **Sim800l**. 
   Check that the *Sim800l* folder contains Sim800l.cpp and Sim800l.h
